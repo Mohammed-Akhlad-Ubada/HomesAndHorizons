@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HomesAndHorizons/static/css/main.dead67f8.css",
+    "main.js": "/HomesAndHorizons/static/js/main.9522382c.js",
+    "static/js/453.ed9cc52f.chunk.js": "/HomesAndHorizons/static/js/453.ed9cc52f.chunk.js",
+    "static/media/Homes&HORIZONS.png": "/HomesAndHorizons/static/media/Homes&HORIZONS.393fb26e4d3e43006b68.png",
+    "index.html": "/HomesAndHorizons/index.html",
+    "main.dead67f8.css.map": "/HomesAndHorizons/static/css/main.dead67f8.css.map",
+    "main.9522382c.js.map": "/HomesAndHorizons/static/js/main.9522382c.js.map",
+    "453.ed9cc52f.chunk.js.map": "/HomesAndHorizons/static/js/453.ed9cc52f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dead67f8.css",
+    "static/js/main.9522382c.js"
+  ]
+}
